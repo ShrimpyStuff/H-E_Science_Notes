@@ -1,6 +1,6 @@
 async function doEverything() {
 let rawFileData = '';
-  await fetch('/file.txt')
+  await fetch('./file.txt')
     .then(response => response.text())
     .then((data) => {
       rawFileData = data;
