@@ -7,3 +7,7 @@ h1 {
 .left {
     text-align: left;
 }
+img {
+    max-height: 500px;
+    max-width: 500px;
+}
