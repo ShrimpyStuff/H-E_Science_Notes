@@ -9,7 +9,7 @@ let rawFileData = '';
   let rol = "right";
 
   rawFileData.split("New Note").forEach(note => {
-    document.getElementById("notes").innerHTML += `<br/><br/><div class="${rol}">${note}</div>`;
+    document.getElementById("notes").innerHTML += `<br/><br/><div class="${rol}"><p>${note}</p></div>`;
     rol = (rol === "right") ? "left" : "right";
   });
 }
