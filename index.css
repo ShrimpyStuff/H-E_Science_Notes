@@ -1,6 +1,3 @@
-h1 {
-    text-align: center;
-}
 .right {
     text-align: right;
 }
@@ -15,4 +12,5 @@ img {
     background-image: url("Banner.png");
     background-repeat: repeat-x;
     min-height: 188px;
+    text-align: center;
 }

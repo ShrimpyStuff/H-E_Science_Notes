@@ -1,7 +1,7 @@
 Heat causes matter in any state to expand, but it can grow more or less based on the state it's within. Also, when substances enlarge, the actual size of the atoms doesn't change.
 New Note
-Conduction is the transfer of thermal energy through particles colliding/transfer of heat through touching. An example of conduction is touching a hot metal pan because the pan will transfer the heat from the metal to your hand. Thermal energy is energy that changes form into heat. Some sources of heat energy are volcanoes and the Sun.
+Conduction is the transfer of thermal energy through particles colliding/transfer of heat through touching. An illustration of conduction is touching a hot metal pan because the pan will transfer the heat from the metal to your hand. Thermal energy is energy that changes its form into heat. Some sources of heat energy are volcanoes and the Sun.
 New Note
-Convection is how heat is transferred, caused by the flow of a heated fluid (Fluids are gases and liquids). An example of convection is a hot air balloon or a convection oven.
+Convection is how heat is transferred, produced by the flow of a heated fluid (Fluids are gases and liquids). An example of convection is a hot air balloon or a convection oven.
 New Note
-Radiation is the transfer of heat.
+Radiation is the transferal of radiant energy through electromagnetic waves, like light. Radiation does not need particles to transfer heat as conduction and convection do.
