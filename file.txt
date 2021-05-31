@@ -1,5 +1,5 @@
-Heat is a thing and I like heat so brrrrrrr
+Heat causes matter in any state to expand but the matter can expand more or less based off of the state of matter it's in. When the matter expands the actual size of the atoms doesn't expand but the volume does.
 New Note
-Heat thiddsg  nhiohgiro shgudhfguidg
+Conduction is the transfer of heat through particles colliding/Transfer of heat through touching. An example of conduction is touching a hot metal pan because the pan will transfer the heat from the metal to your hand. Thermal Energy is other types of energy getting turned into heat and the thermal energy is the heat energy. Some sources of heat energy are volcanoes and the Sun.
 New Note
-These are all tests also images work cause I'm cool. https://cursed-images-api.herokuapp.com/images/babyman.png
+Convection is the transfer of thermal energy through the flow of a fluid's (Liquids and Gases) particles

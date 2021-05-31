@@ -11,3 +11,8 @@ img {
     max-height: 500px;
     max-width: 500px;
 }
+#title {
+    background-image: url("Banner.png");
+    background-repeat: repeat-x;
+    min-height: 188px;
+}
