@@ -1,8 +1,12 @@
 .right {
     text-align: right;
+    margin-left: 52%;
+    word-break: break-all;
 }
 .left {
     text-align: left;
+    margin-right: 52%;
+    word-break: break-all;
 }
 img {
     max-height: 500px;

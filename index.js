@@ -10,8 +10,7 @@ let rawFileData = '';
 
   rawFileData.split("New Note").forEach(note => {
     note = note.replace(/((?:http|https):\/\/.*(?:.png|.jpg))/gm, "<img src=\"$1\"/>");
-    note = note.replace(/\./gm, ".<br/>");
-    document.getElementById("notes").innerHTML += `<br/><br/><div class="${rol}">${note}</div>`;
+    document.getElementById("notes").innerHTML += `<div class="${rol}">${note}<br/><br/></div>`;
     rol = (rol === "right") ? "left" : "right";
   });
 }
