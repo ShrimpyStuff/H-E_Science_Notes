@@ -13,7 +13,7 @@ img {
     max-width: 500px;
 }
 #title {
-    background-image: url("Banner.png");
+    background-image: url("Images/Banner.png");
     background-repeat: repeat-x;
     min-height: 188px;
     text-align: center;
