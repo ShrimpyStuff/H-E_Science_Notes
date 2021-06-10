@@ -5,5 +5,6 @@ New Note
 Convection is heat transferred when produced by the flow of a heated fluid (Fluids are gases and liquids). An example of convection is a hot air balloon or a convection oven.
 New Note
 Radiation is the transferal of radiant energy through electromagnetic waves, like light. Radiation does not need particles to transfer heat whereas, conduction and convection do. Radiation transfers heat in straight lines in every direction from the heat source. The particles hit by the electromagnetic waves absorb the radiant energy and turn it into thermal energy. The particles of colours absorb radiant energy more or less based on how dark the colour is.
+URL/Images/Energy%20Diagrams.png
 New Note
 Heat loss is mostly due to faulty construction or incorrect products for the situation. The part of a house that looses the most heat are uninsolated walls. Green roofs are an uncommon type of insulation but they asborb water and provide insulation.
