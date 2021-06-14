@@ -2,11 +2,13 @@
     text-align: right;
     margin-left: 52%;
     word-break: break-word;
+    float: right;
 }
 .left {
     text-align: left;
     margin-right: 52%;
     word-break: break-word;
+    float: left;
 }
 img {
     max-height: 500px;
