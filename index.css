@@ -1,14 +1,16 @@
 .right {
     text-align: right;
-    margin-left: 52%;
+    max-width: 48%;
     word-break: break-word;
     float: right;
+    clear: right;
 }
 .left {
     text-align: left;
-    margin-right: 52%;
+    max-width: 48%;
     word-break: break-word;
     float: left;
+    clear: left;
 }
 img {
     max-height: 500px;
